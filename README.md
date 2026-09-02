@@ -14,6 +14,11 @@ Drop-in examples so another agent can turn a table into a live dashboard URL.
 ## Repo layout
 
 ```text
+## Grok custom connector
+
+```text
+https://xsbzchiryhqatvrzgyxm.supabase.co/functions/v1/mcp-grok
+
 README.md
 SKILL.md
 .env.example
