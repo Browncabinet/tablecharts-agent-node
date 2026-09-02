@@ -9,7 +9,7 @@ Drop-in examples so another agent can turn a table into a live dashboard URL.
 - Site: https://tablecharts.co
 - Agent card: https://tablecharts.co/.well-known/agent-card.json
 - MCP: `npx -y @tablecharts/mcp-server`
-- Demo: https://tablecharts.co/embed/your-real-id
+- Demo: https://tablecharts.co/embed/4c17c69d-9663-4b64-bec9-d5b303e2dabd
 
 ## Repo layout
 
